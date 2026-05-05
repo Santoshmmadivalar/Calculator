@@ -1,4 +1,4 @@
-# 🧮 AntiGravity Calculator
+# 🧮 Calculator
 
 A modern, responsive web calculator built with **React + Vite**, designed with a unique *anti-gravity UI feel* and smooth interactions.
 
@@ -70,7 +70,8 @@ npm run dev
 
 ## 📸 Screenshots
 
-scrrenshort
+![Uploading Screenshot_5-5-2026_193649_calculator-web-murex.vercel.app.jpeg…]()
+
 
 ---
 
