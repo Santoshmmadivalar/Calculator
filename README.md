@@ -6,7 +6,7 @@ A modern, responsive web calculator built with **React + Vite**, designed with a
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here — Netlify / Vercel / GitHub Pages)*
+👉 https://calculator-web-murex.vercel.app/
 
 ---
 
