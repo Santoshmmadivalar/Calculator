@@ -1,16 +1,104 @@
-# React + Vite
+# 🧮 AntiGravity Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web calculator built with **React + Vite**, designed with a unique *anti-gravity UI feel* and smooth interactions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 *(Add your deployed link here — Netlify / Vercel / GitHub Pages)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚡ Lightning-fast performance with Vite
+* 🎨 Modern UI with anti-gravity inspired design
+* 📱 Fully responsive (mobile + desktop)
+* 🔢 Supports basic arithmetic operations
+* 🧠 Clean state management using React hooks
+* 🔄 Real-time calculations
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React
+* **Build Tool:** Vite
+* **Styling:** CSS / Tailwind *(update if needed)*
+* **Language:** JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+calculator/
+│── public/
+│── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│── package.json
+│── vite.config.js
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots or GIFs here — this is where most people fail, don’t skip it)*
+
+---
+
+## 🧩 Future Improvements
+
+* Scientific calculator functions
+* Keyboard input support
+* Dark / Light mode toggle
+* History tracking
+* Animations & micro-interactions
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first.
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👤 Author
+
+**Your Name**
+GitHub: https://github.com/your-username
+
+---
