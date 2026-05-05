@@ -50,7 +50,7 @@ calculator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Santoshmmadivalar/calculator.git
 cd your-repo-name
 ```
 
@@ -70,7 +70,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs here — this is where most people fail, don’t skip it)*
+scrrenshort
 
 ---
 
@@ -99,6 +99,6 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/santoshmmadivalar
 
 ---
